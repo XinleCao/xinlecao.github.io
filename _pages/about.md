@@ -34,7 +34,7 @@ In all listed publications below, I am the first author/corresponding author/co-
 - *2021.05*: &nbsp;🎉🎉 "Cryptanalysis of an Encrypted Database in SIGMOD '14" is accepted by VLDB 2021.
 
 # 📝 Publications (Conference)
-- ``Under Submission`` Practical Secure Conjunctive Query Revisited, Inspired by shufan, I am trying to address the leakage in processing multi-attribute data, Under Submission
+- ``Under submission`` Practical Secure Conjunctive Query Revisited, Inspired by shufan, I am trying to address the leakage in processing multi-attribute data
 - ``VLDB 2025`` [Towards Practical Oblivious Map](https://eprint.iacr.org/2024/1650), Try to present more efficient oblivious maps under client/server paradigm, it is interesting to verify if they are still promising in enclave-based EDBs.
 - ``ICDE 2024`` [Secure and Practical Functional Dependency Discovery in Outsourced Databases](https://eprint.iacr.org/2023/1969), Interested in some classical tasks in database, and tried to design complete oblivious algorithms.
 - ``VLDB 2023`` [Frequency-revealing Attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122), Tried to propose more efficient protocols for range queries in EDBs, but failed and found prior works are insecure.
