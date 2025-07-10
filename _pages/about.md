@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my PhD degree this summer, and now I am an assistant researcher in OceanBase, Ant Group.
+I obtained my PhD degree this summer, and now I am an associate researcher in OceanBase, Ant Group.
 
 I am actively finding interesting problems in research and trying to learn some lessons from them! So, please contact me if any collaboration is possible!
 
