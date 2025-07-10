@@ -57,6 +57,7 @@ In all listed publications below, I am the first author/corresponding author/co-
 - ``TOS Reviewer``
 - ``TKDE Reviewer``
 - ``TDSC Reviewer``
+- ``NeurIPS 2025 Ethics Reviewer``
 
 # 🎁Recommeded Videos
 - 机智的医生生活 （翼俊粉）
